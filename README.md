@@ -3,7 +3,7 @@
 My name is Alana.
 
 - 🌱 I'm currently studying CS and math. Recently, I've been doing lots of statistics and combinatorics. I've also been playing around with Javascript and OpenCV.
-- 🔭 How can we translate recent advances in network and graph-based note-taking systems to social media? I'm doing exploratory work on something that will probably look a lot like [Glue](https://a9.io/glue-comic/).
+- 🔭 How can we translate recent advances in network and graph-based note-taking systems to social media? I'm doing exploratory work on a program that will probably look a lot like [Glue](https://a9.io/glue-comic/).
 - 💬 Let's talk about how we can help humanity build safe, aligned, and powerful AI systems.
 
 Unfortunately, most of my recent projects have not been public. Here's what is in this repository:
