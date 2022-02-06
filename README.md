@@ -4,8 +4,6 @@
 **alat-rights/alat-rights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Nice to meet you!
-
 My name is Alana.
 
 - 🌱 I'm currently studying CS and math. Recently, I've been doing lots of statistics and combinatorics. I've also been playing with tools such as Javascript and OpenCV.
