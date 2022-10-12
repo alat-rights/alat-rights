@@ -2,8 +2,10 @@
 
 My name is Alana.
 
-- 🌱 I'm currently studying CS and math. Recently, I've been doing lots of statistics and combinatorics. I'm also playing around with Javascript and OpenCV.
-- 💬 Let's talk about how we can build safe, aligned, and powerful AI systems to help humanity.
+- 🌱 I'm currently studying CS and math at Stanford.
+- 🚀 I value moving fast.
+- 🧠 I do ML research at Stanford. Previously, I built software at WhatsApp.
+- 🤔 My goal is to figure out how to build corrigible AI systems.
 
 Unfortunately, most of my recent projects have not been public.
 
