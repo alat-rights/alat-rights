@@ -3,7 +3,7 @@
 My name is Alana.
 
 - 🌱 I'm currently studying CS and math at Stanford.
-- 🚀 I value moving fast.
+- 🚀 I value moving fast and shipping high-quality work.
 - 🧠 I do ML research at Stanford. Previously, I built software at WhatsApp.
 - 🤔 My goal is to figure out how to build corrigible AI systems.
 
