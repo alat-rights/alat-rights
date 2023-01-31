@@ -2,10 +2,9 @@
 
 My name is Alana.
 
-- 🌱 I'm currently studying CS and math at Stanford.
-- 🚀 I value moving fast and shipping high-quality work.
-- 🧠 I do ML research at Stanford. Previously, I built software at WhatsApp.
-- 🤔 My goal is to figure out how to build corrigible AI systems.
+- 🌱 I study CS and math at Stanford.
+- 💻 Previously, I interned at WhatsApp.
+- 🚀 I'm on a mission to figure out how to align powerful future AI systems.
 
 Unfortunately, most of my recent projects have not been public.
 
