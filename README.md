@@ -3,7 +3,7 @@
 My name is Alana.
 
 - 🌱 I study CS and math at Stanford.
-- 💻 Previously, I interned at WhatsApp.
+- 💻 Previously, I interned at WhatsApp and ARC Evals.
 - 🚀 I'm on a mission to figure out how to align powerful future AI systems.
 
 Unfortunately, most of my recent projects have not been public.
