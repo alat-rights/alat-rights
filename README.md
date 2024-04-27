@@ -10,4 +10,4 @@ My most recent project is a [utilities library to speed up LLM interactions](htt
 
 Feel free to raise an Issue in this repository, or message me anywhere else, if you'd like to get in touch!
 
-Note: Some of my commits had the author name `=`.
+Note: Some of my commits have the author name `=`.
