@@ -9,3 +9,5 @@ My name is Alana.
 My most recent project is a [utilities library to speed up LLM interactions](https://github.com/alat-rights/alana-utilities).
 
 Feel free to raise an Issue in this repository, or message me anywhere else, if you'd like to get in touch!
+
+Note: Some of my commits had the name `=`.
