@@ -2,9 +2,9 @@
 
 My name is Alana.
 
-- 🌱 I study CS and math at Stanford.
-- 💻 Previously, I interned at WhatsApp and ARC Evals.
-- 🚀 I'm on a mission to figure out how to align powerful future AI systems.
+- I study CS and math at Stanford.
+- Previously, I interned at WhatsApp and ARC Evals.
+- I'm on a mission to figure out how to align powerful future AI systems.
 
 My most recent project is a [utilities library to speed up LLM interactions](https://github.com/alat-rights/alana-utilities).
 
